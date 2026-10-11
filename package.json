@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Personal scrapbook portfolio for Gunjan Balapure (HTML & CSS)",
   "scripts": {
-    "build": "echo 'Static site ready'",
-    "dev": "python -m http.server 3000",
-    "start": "python -m http.server 3000"
+    "dev": "python -m http.server 3000"
   },
   "keywords": [
     "portfolio",
